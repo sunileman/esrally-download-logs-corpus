@@ -2,7 +2,7 @@ esEsRally Logs Track Dataset Download Script
 
 ## Overview
 
-This repository contains a Python script designed for downloading specific files from a predefined JSON configuration. The script processes entries in the JSON, modifies them according to specified rules, and downloads files to a local directory. It's particularly tailored for use with rally-track configurations in Elasticsearch.
+This repository contains a Python script designed for downloading esrally logs track corpus to your local machine.  The script fetches and parses esrally log `track.json1 and downloads files to a local directory. It's particularly tailored for use with logs rally-track configurations in Elasticsearch.
 
 ## Features
 
