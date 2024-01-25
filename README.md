@@ -1,4 +1,4 @@
-# Rally Download Script
+esEsRally Logs Track Dataset Download Script
 
 ## Overview
 
